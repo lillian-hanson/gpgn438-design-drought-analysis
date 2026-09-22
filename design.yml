@@ -8,4 +8,4 @@ dependencies:
   - numpy
   - dataretrieval
   - matplotlib
-prefix: C:\Users\lilli\anaconda3\envs\design
+prefix: /opt/anaconda3/envs/design
