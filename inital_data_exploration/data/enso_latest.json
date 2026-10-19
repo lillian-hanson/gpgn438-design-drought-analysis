@@ -1,0 +1,62 @@
+{
+  "generated_utc": "2026-10-19T15:15:59+00:00",
+  "index_used": "RONI",
+  "indices": {
+    "ONI": {
+      "latest_season": "JAS 2026",
+      "latest_anom": 2.16,
+      "status": "El Niño developing: 4 of the 5 seasons needed to meet the CPC definition",
+      "consecutive_seasons_beyond_threshold": 4
+    },
+    "RONI": {
+      "latest_season": "JAS 2026",
+      "latest_anom": 1.69,
+      "status": "El Niño developing: 3 of the 5 seasons needed to meet the CPC definition",
+      "consecutive_seasons_beyond_threshold": 3
+    }
+  },
+  "recent_events": [
+    {
+      "phase": "La Niña",
+      "span": "ASO 2017 - MAM 2018",
+      "n_seasons": 8,
+      "peak": -1.14,
+      "strength": "moderate"
+    },
+    {
+      "phase": "El Niño",
+      "span": "SON 2018 - MAM 2019",
+      "n_seasons": 7,
+      "peak": 0.82,
+      "strength": "weak"
+    },
+    {
+      "phase": "La Niña",
+      "span": "AMJ 2020 - FMA 2023",
+      "n_seasons": 35,
+      "peak": -1.46,
+      "strength": "moderate"
+    },
+    {
+      "phase": "El Niño",
+      "span": "JJA 2023 - JFM 2024",
+      "n_seasons": 8,
+      "peak": 1.42,
+      "strength": "moderate"
+    },
+    {
+      "phase": "La Niña",
+      "span": "JAS 2024 - MAM 2025",
+      "n_seasons": 9,
+      "peak": -1.1,
+      "strength": "moderate"
+    },
+    {
+      "phase": "La Niña",
+      "span": "JAS 2025 - JFM 2026",
+      "n_seasons": 7,
+      "peak": -1.04,
+      "strength": "moderate"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "site": "USGS-09239500",
+  "name": "YAMPA RIVER AT STEAMBOAT SPRINGS, CO",
+  "water_year": 2027,
+  "latest_date": "2026-10-18",
+  "latest_cfs": 118.0,
+  "percentile_for_date": 54.8,
+  "wy_volume_to_date_acre_ft": 2773,
+  "median_volume_to_date_acre_ft": 3725,
+  "pct_of_median_volume": 74.4,
+  "generated_utc": "2026-10-19T15:15:35+00:00"
+}
