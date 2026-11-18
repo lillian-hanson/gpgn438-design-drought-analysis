@@ -1,0 +1,10 @@
+.env
+env
+.ipynb_checkpoints/
+__pycache__/
+*.tif
+*.zip
+data/*
+!data/README.md
+.virtual_documents/
+.cache/

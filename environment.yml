@@ -1,0 +1,19 @@
+name: design
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - requests
+  - rasterio
+  - shapely
+  - jupyterlab
+  - pip
+  - pip:
+      - asf_search
+      - hyp3_sdk
+# Versions are not pinned yet. Run `conda env export --from-history` and `pip freeze`
+# in the environment that ran the notebooks, and pin them here before Dec 1.
